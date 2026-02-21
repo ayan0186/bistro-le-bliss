@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Elegant and cozy interior of a modern French bistro.",
+      "imageUrl": "https://images.unsplash.com/photo-1552566626-52f8b828add9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZXN0YXVyYW50fGVufDB8fHx8MTc3MTY1MDIzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant interior"
+    },
+    {
+      "id": "menu",
+      "description": "A beautifully plated dish from a French restaurant.",
+      "imageUrl": "https://images.unsplash.com/photo-1549903072-7e6e0bedb7fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmcmVuY2glMjBmb29kfGVufDB8fHx8MTc3MTU0MTUzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "french food"
+    },
+    {
+      "id": "reservations",
+      "description": "An empty dining table set for a reservation.",
+      "imageUrl": "https://images.unsplash.com/photo-1574966739987-65e38db0f7ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZXN0YXVyYW50JTIwdGFibGV8ZW58MHx8fHwxNzcxNjQ5ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant table"
+    },
+    {
+      "id": "events",
+      "description": "A restaurant space set up for a private event.",
+      "imageUrl": "https://images.unsplash.com/photo-1759769583908-7cd4e3310ce6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyZXN0YXVyYW50JTIwZXZlbnR8ZW58MHx8fHwxNzcxNjQ5ODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "restaurant event"
+    }
+  ]
+}
