@@ -2,6 +2,8 @@ import type {NextConfig} from 'next';
 
 const nextConfig: NextConfig = {
   /* config options here */
+  // disable dev indicators (Next.js dev tools, hot-reload status, etc.)
+  devIndicators: false,
   typescript: {
     ignoreBuildErrors: true,
   },
